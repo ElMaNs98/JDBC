@@ -1,5 +1,6 @@
 # JDBC
 
+Petite Remarque: On voit que le repository est composé de 99.5% Javascript et 0,5% Java à cause du fichier .metadata, le code Java est disponible dans le path JDBC/JavaJDBCPostgre/src/com/marc/com/ConnectDB.java
 
 Versions et Softwares utilisés:
     PostgreSQL pgAdmin 4 version 14.1
