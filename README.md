@@ -16,7 +16,7 @@ Démarche:
   
 ![image](https://user-images.githubusercontent.com/66441264/151611765-fb152fb0-6d65-44ba-9617-3bf2c650b70d.png)
 
-  3- Écrire le code java sur Eclipse où j'ai connecté l'application Java avec la base de donnée qui se trouve sur postgres.
+  3- Écrire le code java sur Eclipse (se trouvant dans le path JDBC/JavaJDBCPostgre/src/com/marc/com/ConnectDB.java) où j'ai connecté l'application Java avec la base de donnée qui se trouve sur postgres. 
  
 ![image](https://user-images.githubusercontent.com/66441264/151609856-cfff777b-48cd-4bb6-b16e-afcd523e0e05.png)
 
